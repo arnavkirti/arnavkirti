@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arnav Kirti and I'm a Developer and Competitive Programmer, from IIT Roorkee</h2>
+<h2 align="left">Hi 👋! My name is Arnav Kirti and I'm a Web3 Developer from IIT Roorkee</h2>
 
 ###
 
